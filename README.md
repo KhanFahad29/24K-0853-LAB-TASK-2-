@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fahad Ullah Khan!  
 
-< img src "https://tenor.com/view/lion-king-lion-animal-windy-gif-2980055125657936719">
+![Lion King](https://tenor.com/view/lion-king-lion-animal-windy-gif-2980055125657936719)  
 
 ## 👨‍💻 About Me  
 - 🎓 **BS in Computer Science** at **FAST NUCES**  
@@ -14,5 +14,3 @@
 - ⚡ Web Development & Problem Solving  
 - 🔍 Exploring Open-Source Projects  
 - 🎯 Building cool projects & improving my coding skills  
-
-  
