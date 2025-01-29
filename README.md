@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fahad Ullah Khan!  
 
-
+![image alt](https://github.com/KhanFahad29/24K-0853-LAB-TASK-2-/blob/6968794e7252cb80d421fa709926ffd83c5d3e79/lion-king-lion.gif)
 
 ## 👨‍💻 About Me  
 - 🎓 **BS in Computer Science** at **FAST NUCES**  
