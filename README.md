@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fahad Ullah Khan!  
 
-![Lion King]C:\Users\Dell\Pictures\Camera Roll\lion-king-lion.gif
+
 
 ## 👨‍💻 About Me  
 - 🎓 **BS in Computer Science** at **FAST NUCES**  
