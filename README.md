@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fahad Ullah Khan!  
 
-![Lion King](https://tenor.com/view/lion-king-lion-animal-windy-gif-2980055125657936719)  
+![Lion King]![Uploading lion-king-lion.gif…]()
 
 ## 👨‍💻 About Me  
 - 🎓 **BS in Computer Science** at **FAST NUCES**  
